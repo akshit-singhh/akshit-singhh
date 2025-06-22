@@ -54,6 +54,10 @@ I love turning ideas into functional prototypes and look forward to collaboratin
   <img src="https://nirzak-streak-stats.vercel.app/?user=akshit-singhh&theme=default_repocard&hide_border=false" />
 </p>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/akshit-singhh/akshit-singhh/output/github-snake.svg" alt="snake svg" />
+</div>
+
 ---
 
 ### ✍️ Dev Quote
@@ -61,5 +65,3 @@ I love turning ideas into functional prototypes and look forward to collaboratin
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
-
----
