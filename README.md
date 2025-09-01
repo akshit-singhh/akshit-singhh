@@ -23,6 +23,9 @@ I love turning ideas into functional prototypes and look forward to collaboratin
   <a href="mailto:akshitsingh658@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://unstop.com/u/akshisin4742" target="_blank">
+    <img src="https://img.shields.io/badge/Unstop-1E4DA1?style=for-the-badge&logo=unstop&logoColor=white" />
+  </a>
 </p>
 
 ---
