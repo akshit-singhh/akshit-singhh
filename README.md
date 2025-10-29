@@ -5,7 +5,7 @@
 As part of my learning journey:
 - I’ve built **Fillpit**, a pothole reporting platform using geolocation and image uploads
 - Developed a **health monitoring prototype** using ESP8266 and Blynk
-- Experimented with **Kotlin**, **Jetpack Compose**, and **FastAPI** (e.g., a train seat prediction tool)
+- Experimented with **Kotlin**, **Jetpack Compose**
 
 I love turning ideas into functional prototypes and look forward to collaborating with like-minded developers!
 
