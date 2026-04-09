@@ -49,17 +49,22 @@ I love turning ideas into functional prototypes and look forward to collaboratin
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshit-singhh&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshit-singhh&theme=default_repocard&hide_border=false&layout=compact" height="180px"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=akshit-singhh&theme=default&show_icons=true" height="165" style="margin-right:10px;"/>
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=akshit-singhh&theme=default&layout=compact" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=akshit-singhh&theme=default_repocard&hide_border=false" />
+<p align="center" style="margin-top: 15px;">
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=akshit-singhh&theme=default&hide_border=false" height="180"/>
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/akshit-singhh/akshit-singhh/output/github-snake.svg" alt="snake svg" />
-</div>
+<p align="center" style="margin-top: 15px;">
+  <!-- GitHub Snake Game -->
+  <img src="https://raw.githubusercontent.com/akshit-singhh/akshit-singhh/output/github-snake.svg" alt="GitHub Snake" height="150"/>
+</p>
 
 ---
 
